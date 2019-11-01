@@ -1,6 +1,6 @@
 # L_layered-Deep-Neural-Network-Implementation
 ## 1. Description
-  This notebook includes implementation of the DNN with L-layered architecture for single-class classification and tested with iris dataset. You can use this notebook as a L-layered DNN model to train different datasets and different architectures. You have to fit train dataset of shape (dimensions, examples) and target output set of (dimensions,examples) to the model and parameters will be resulted. Hyperparameters are also there to tune as your preferrence and predictions can be made. 
+  This notebook includes implementation of the DNN with L-layered architecture for binary classification and tested with iris dataset. You can use this notebook as a L-layered DNN model to train different datasets and different architectures. You have to fit train dataset of shape (dimensions, examples) and target output set of (dimensions,examples) to the model and parameters will be resulted. Hyperparameters are also there to tune as your preferrence and predictions can be made. 
 
 ![deep neural network](https://github.com/Christopher-K-Constantine/Deep-Neural-Network-from-scratch/blob/master/dnn.jpeg)
 
